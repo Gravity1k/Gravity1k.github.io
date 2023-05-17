@@ -133,7 +133,7 @@
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
 								<a href="https://github.com/Gravity1k/Flimpire-Clone" target="_blank" class="image featured"><img src="assets\css\images\ie\MovieLand1.PNG" alt="" /></a>
-								<h3><a href="#">MovieLand</a></h3>
+								<h3><a href="https://github.com/Gravity1k/Flimpire-Clone">MovieLand</a></h3>
 								<p>MovieLand is my first React.js project. It takes a user input and then displays a list of movies or shows containing the user input. It uses an API to fetch
 									the titles.
 								</p>
@@ -142,7 +142,7 @@
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
 								<a href="https://github.com/Gravity1k/NEXT" target="_blank" class="image featured"><img src="assets\css\images\ie\Wesite1.PNG" alt="" /></a>
-								<h3><a href="#">NEXT</a></h3>
+								<h3><a href="https://github.com/Gravity1k/NEXT">NEXT</a></h3>
 								<p>Next was just me having fun designing a landing page for a company. It allowed me to discover some neat tricks in CSS and really made me realize I liked 
 									front end development.
 								</p>
